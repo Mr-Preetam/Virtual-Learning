@@ -1,2 +1,5 @@
 # Virtual-Learning
-PHP Internship mini project
+A project on virtual Learning 
+Front end : HTML, CSS, JS, Jquery
+Backed : PHP, MySql
+Async : Ajax
